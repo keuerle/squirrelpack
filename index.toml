@@ -26,6 +26,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "6dc9443f66c77a942c58a0c1e827dc3daa7eb4e6fb0d7039862b5c5b6a00b505"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
 metafile = true
@@ -200,6 +205,11 @@ hash = "5dbef16af5f6ba5c4e457b90c6c71e25158397a575f09c637583c10a367377c2"
 metafile = true
 
 [[files]]
+file = "mods/delight-lib.pw.toml"
+hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
 metafile = true
@@ -360,6 +370,11 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "eec0715d020c6079c430338684d4cd752aa55231cb7887174b361481834e3ac4"
+metafile = true
+
+[[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
 hash = "2fe01d8046db2246c6df01eedd1fbc7837c08cc6d3b2a9017107ade989e86a28"
 metafile = true
@@ -452,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "b4cb292255e46d058ef9c4a6bcdf562ae539489a31d0b4bea3718042d98e5c86"
+metafile = true
+
+[[files]]
+file = "mods/recipe-modification.pw.toml"
+hash = "fcc5142f8aa8a7c0d9d26dcfd5727f3cf046bd2f1def594ef74e969df48cef9a"
 metafile = true
 
 [[files]]
