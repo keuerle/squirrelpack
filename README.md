@@ -4,7 +4,7 @@ A NeoForge 1.21.1 modpack, managed with [packwiz](https://packwiz.infra.link).
 Mods auto-sync on every launch — when the pack updates, you get the changes the next time you start the game.
 
 - **Minecraft:** 1.21.1
-- **Loader:** NeoForge 21.1.233
+- **Loader:** NeoForge 21.1.231
 - **Manifest URL:** `https://raw.githubusercontent.com/keuerle/squirrelpack/main/pack.toml`
 
 ---
@@ -15,7 +15,7 @@ You need [Prism Launcher](https://prismlauncher.org) and Java 21.
 
 1. **Create the instance**
    - In Prism: **Add Instance** → name it `squirrelpack`.
-   - Choose **Minecraft 1.21.1**, then on the loader tab pick **NeoForge** version **21.1.233**.
+   - Choose **Minecraft 1.21.1**, then on the loader tab pick **NeoForge** version **21.1.231**.
    - Click OK to create it.
 
 2. **Add the auto-sync bootstrap**
