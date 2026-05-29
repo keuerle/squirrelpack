@@ -1,13 +1,13 @@
 name = "Create Extra Casing"
-filename = "create_extra_casing-4.0.2-NeoForge-1.21.1.jar"
+filename = "create_extra_casing-4.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yEGVcr59/versions/p6KTl7zO/create_extra_casing-4.0.2-NeoForge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/yEGVcr59/versions/8w86yown/create_extra_casing-4.0.4.jar"
 hash-format = "sha512"
-hash = "331a4beb5e5ce57feaef09c3af027e231108f819695dfb276f804c318f6aaa0ae5cbd474ee9abc32c3984d9a5c6714a82b5c8b3f8f40f5a7b1875662204d1385"
+hash = "4475da2d725228944163f49eac7614416afcdb955347c99c01a69caa553150fa46fbf7a96dd2618cf6b728ff3512535dcd231e9bcca163719813ebc5d711895c"
 
 [update]
 [update.modrinth]
 mod-id = "yEGVcr59"
-version = "p6KTl7zO"
+version = "8w86yown"
