@@ -1,0 +1,13 @@
+name = "Fast Paintings"
+filename = "fastpaintings-1.21-1.2.15-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z3TzcquW/versions/fln5Hr04/fastpaintings-1.21-1.2.15-neoforge.jar"
+hash-format = "sha512"
+hash = "296691f3637bba1b66f75a164839d6db60fba6808b612e28ac817d89e5b06b45e4036dd4e188ee612bf92578fc3363d5053a907d55e0d30d0c47ab711377a2fa"
+
+[update]
+[update.modrinth]
+mod-id = "z3TzcquW"
+version = "fln5Hr04"

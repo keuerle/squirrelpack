@@ -1,0 +1,13 @@
+name = "Ben's Sharks"
+filename = "benssharks-1.2.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kF6ZFH7j/versions/zg8XkWtU/benssharks-1.2.5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "3ea4d2cb5729ce6acdb15a57d778b20f5e13bd7ea87240292c05719b3ef4a1665013585afa9f12c57c8436423c5b16516d3c383a1803f415e8564a26b097000d"
+
+[update]
+[update.modrinth]
+mod-id = "kF6ZFH7j"
+version = "zg8XkWtU"
