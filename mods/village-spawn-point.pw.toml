@@ -1,6 +1,6 @@
 name = "Village Spawn Point"
 filename = "villagespawnpoint-1.21.1-4.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KplTt9Ku/versions/YKnDyG5w/villagespawnpoint-1.21.1-4.6.jar"
