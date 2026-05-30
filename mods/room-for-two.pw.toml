@@ -1,0 +1,13 @@
+name = "Room For Two"
+filename = "roomfortwo-neoforge-1.21.1-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YZlvzIFq/versions/QPSYG3LG/roomfortwo-neoforge-1.21.1-0.1.0.jar"
+hash-format = "sha512"
+hash = "8889b3a175cae837148d25d4d3c29ef0eb61fbad83d67a789ffc972d563ad605e2fcc0feb48e94034b3378fc6ace136c453730e536c79ca12ae0d3b1718d88b0"
+
+[update]
+[update.modrinth]
+mod-id = "YZlvzIFq"
+version = "QPSYG3LG"
