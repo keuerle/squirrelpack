@@ -66,6 +66,11 @@ hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "21399291eab26dc16a3d3455b4388df2bc42512570729dbcdd60697c1a84fd77"
+metafile = true
+
+[[files]]
 file = "mods/coolrain.pw.toml"
 hash = "25626cbf5bf1869334bb5e9ca764db1bec127fb4650f3fa79e826f86ca87aff2"
 metafile = true
