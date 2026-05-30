@@ -686,11 +686,6 @@ hash = "95c1463e32bb43f828cfbacc5175021cca51e573bef39b33e2c9fc55351c417f"
 metafile = true
 
 [[files]]
-file = "mods/vegan-delight.pw.toml"
-hash = "2db93afe3bf4cbcfee9025495c50bad07c5984012c57378271ba29a5775b4c05"
-metafile = true
-
-[[files]]
 file = "mods/village-spawn-point.pw.toml"
 hash = "be517604d9f197eb9ccc0685aeb8443831d87a2b3387db45be3832ff0422b763"
 metafile = true
