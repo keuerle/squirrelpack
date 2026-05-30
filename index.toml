@@ -621,6 +621,11 @@ hash = "2507dd9242e994ec7a0b21255b0b51a91bf9e0e51b060defe7bf7f8fa1f04b53"
 metafile = true
 
 [[files]]
+file = "mods/shine.pw.toml"
+hash = "a798b1ddcf6ce6699abdce3c48feb62453816cfeb0d01b1b75fdfcdcf44406da"
+metafile = true
+
+[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "f36e8f8657a40e89624c5d99a940367d90d1f865f781acb251a7702a2ea68894"
 metafile = true
