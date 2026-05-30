@@ -6,6 +6,7 @@ cd "$(dirname "$0")"
 PACKWIZ="$HOME/go/bin/packwiz"
 
 "$PACKWIZ" refresh
+python3 docs/_generate.py
 git add -A
 git commit -m "${1:-update pack}"
 git push origin main
