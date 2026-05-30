@@ -716,16 +716,6 @@ hash = "be517604d9f197eb9ccc0685aeb8443831d87a2b3387db45be3832ff0422b763"
 metafile = true
 
 [[files]]
-file = "mods/vista-aeronautics-fix.pw.toml"
-hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
-metafile = true
-
-[[files]]
-file = "mods/vista_tv.pw.toml"
-hash = "c493f2722c4a9c08029f43140babc8f37bacfda57932ce5b29b29e388710fe82"
-metafile = true
-
-[[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "e58928e10c503de8a82e8de066d7f17e96a1e67d7bc452386dac8695a48874fc"
 metafile = true
