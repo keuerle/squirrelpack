@@ -21,6 +21,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/atmospherics.pw.toml"
+hash = "db79f9a03853fac1398cf1eac931c05f702bb1679bd64442d7dff5645655440d"
+metafile = true
+
+[[files]]
 file = "mods/bens-sharks.pw.toml"
 hash = "2380138869c88a71a98d712922f98d182780cfb48a8947b6dad4349928aa8991"
 metafile = true
