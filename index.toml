@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
+hash = "b73c0859f4e434669bb9799e561c23c78661eb30d15c632d1baca0c92faadcc2"
 metafile = true
 
 [[files]]
