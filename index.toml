@@ -66,8 +66,9 @@ hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
 metafile = true
 
 [[files]]
-file = "mods/coolrain-1.1.0-1.21.1-neoforge.jar"
-hash = "b2b522c98e24630c069602d8650c1eb74a78c043da5ffa77b46594b208d64799"
+file = "mods/coolrain.pw.toml"
+hash = "25626cbf5bf1869334bb5e9ca764db1bec127fb4650f3fa79e826f86ca87aff2"
+metafile = true
 
 [[files]]
 file = "mods/copycats+-aeronautics-weight.pw.toml"
@@ -615,8 +616,9 @@ hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
-file = "mods/swaying_garden-1.21.1-neoforge-1.0.4.jar"
-hash = "d703478253706aff1db0e68fad9e68d6db361dc7c0da8efdc58459c502882910"
+file = "mods/swaying-garden.pw.toml"
+hash = "36585fc16951891b32a5523c5b8d36e23de975cab008d06172a3ec16409387cb"
+metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"

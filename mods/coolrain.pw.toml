@@ -1,0 +1,8 @@
+name = "Cool Rain"
+filename = "coolrain-1.1.0-1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/keuerle/squirrelpack/main/client-only/coolrain-1.1.0-1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "e7e59c06677651828af9298c09b27a8f72a4d2a0"

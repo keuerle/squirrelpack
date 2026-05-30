@@ -1,0 +1,8 @@
+name = "Swaying Garden"
+filename = "swaying_garden-1.21.1-neoforge-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/keuerle/squirrelpack/main/client-only/swaying_garden-1.21.1-neoforge-1.0.4.jar"
+hash-format = "sha1"
+hash = "a1dc206703935b8f1d8aaaaab4f2897b97e88ee7"
