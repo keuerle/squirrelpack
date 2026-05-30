@@ -261,6 +261,11 @@ hash = "5b529724427fd8b04538c2f49cc8f9b38de49fe46218eb9e07f955f5725d727a"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "a9b9623c952949837c1c6827b94b5969241c44825483a901cad12fcda12d40e9"
 metafile = true
