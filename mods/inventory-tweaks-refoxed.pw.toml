@@ -1,6 +1,6 @@
 name = "Inventory Tweaks: ReFoxed"
 filename = "invtweaks-1.21.1-1.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uqnMI1kq/versions/tcTciTmQ/invtweaks-1.21.1-1.2.0.jar"
