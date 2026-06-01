@@ -686,11 +686,6 @@ hash = "95c1463e32bb43f828cfbacc5175021cca51e573bef39b33e2c9fc55351c417f"
 metafile = true
 
 [[files]]
-file = "mods/village-spawn-point.pw.toml"
-hash = "be517604d9f197eb9ccc0685aeb8443831d87a2b3387db45be3832ff0422b763"
-metafile = true
-
-[[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "e58928e10c503de8a82e8de066d7f17e96a1e67d7bc452386dac8695a48874fc"
 metafile = true
