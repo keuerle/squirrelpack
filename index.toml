@@ -211,11 +211,6 @@ hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
 metafile = true
 
 [[files]]
-file = "mods/create-radars.pw.toml"
-hash = "b9fd6d8f4f32e306b910be63b315f16bddbc4e9bfefa5d4a7d5a90e42773e05f"
-metafile = true
-
-[[files]]
 file = "mods/create-rustic-structures.pw.toml"
 hash = "ee564898ada12be2660c3ece6a7433f46c13983cb183549310209116cb54742b"
 metafile = true
